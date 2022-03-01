@@ -1,0 +1,1 @@
+[SomeAlt](02-image.md)
